@@ -26,6 +26,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [phosphor-react](https://phosphoricons.com/)
 - [react-modal](https://www.npmjs.com/package/react-modal)
 
+## :star: Funcionalidades adicionadas:
+
+- Opção de remover a transação
+- Layout diferente quando não existem transações criadas
+- Responsividade
+
 ## 👷 Instalação
 
 Clone o repositório com o seguinte comando no seu terminal (Você precisa ter o [Node.js](https://nodejs.org/en/) e o [Git](https://git-scm.com/) instalados no seu computador).
